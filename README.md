@@ -10,6 +10,6 @@ If you'd like to us it in your iOS app feel free, just give me/it a quick mentio
 Basically just share the love, it'd be nice if it ended up being ubiquitous.
 
 TODO:
-#Line widths greater than 1 draw outside the frame currently, needs fixing to adjust based on line width.
-#Provide an alternative initializer to allow specification of stroke colour, stroke width and fill colours.
+Line widths greater than 1 draw outside the frame currently, needs fixing to adjust based on line width.
+Provide an alternative initializer to allow specification of stroke colour, stroke width and fill colours.
 
