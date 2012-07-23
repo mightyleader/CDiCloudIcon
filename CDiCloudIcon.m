@@ -68,6 +68,7 @@
 	
     UIBezierPath *cloudPath = [UIBezierPath bezierPath];
 	[cloudPath setLineWidth:self.strokeWidth];
+	[cloudPath setLineJoinStyle:kCGLineJoinRound];
 	
 	//inset the drawing rect by the line width * 0.5. Oh yeah.
 	CGRect clipRect = CGRectMake(self.strokeWidth, self.strokeWidth, rect.size.width - self.strokeWidth , rect.size.height - self.strokeWidth);
