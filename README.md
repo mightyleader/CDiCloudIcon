@@ -6,7 +6,7 @@ a cloud image for iOS drawn in Core Graphics, no image files required. You're we
 This is a simple subclass of UIView, uses a UIBezierPath to draw arcs and then closes the path.
 Default colour is white border with no fill.
 
-If you'd like to us it in your iOS app feel free, just give me/it a quick mention somewhere in the app, settings or about page and drop me a line to let em know.
+If you'd like to use it in your iOS app feel free, just give me/it a quick mention somewhere in the app, settings or about page and drop me a line to let em know.
 Basically just share the love, it'd be nice if it ended up being ubiquitous.
 
 You can use the default initializer inherited from UIView: initWithFrame:(CGRect)rect
