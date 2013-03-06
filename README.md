@@ -20,7 +20,7 @@ The frame parameter is a simple CGRect. REQUIRED.
 The NSArray parameters for fill and stroke should contain 4 elements, NSNumber objects containing floats that hold a value between 0.0 and 1.0
 in order to give values for Red, Green, Blue and Alpha in that order. OPTIONAL (passing nil will cause the class to use default values of white and full alpha).
 
-The CGFloat parameter for line width is a float value. OPTIONAL (passinh nill uses a default value of 3.0).
+The CGFloat parameter for line width is a float value. OPTIONAL (passing nill uses a default value of 3.0).
 
 The BOOL for shouldFill is REQUIRED.
 
